@@ -1,0 +1,80 @@
+#atimg {
+    border: 2px solid blue;
+    border-radius: 25px;
+}
+.footer {
+    position: static; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(126, 125, 158, 0.486);
+    color: rgb(10, 8, 8);
+    text-align: center;
+    
+    
+}
+#myProgress {
+  width: 80%;
+  background-color: #ddd;
+
+}
+
+#myBar1 {
+  width: 90%;
+  height: 30px;
+  background-color: rgb(218, 104, 62);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+#myBar2 {
+  width: 85%;
+  height: 30px;
+  background-color: rgba(74, 74, 204, 0.795);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+#myBar3 {
+  width: 80%;
+  height: 30px;
+  background-color: rgba(29, 29, 94, 0.699);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+#myBar4 {
+  width: 75%;
+  height: 30px;
+  background-color:rgb(206, 206, 50);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+#myBar5 {
+  width: 70%;
+  height: 30px;
+  background-color: rgba(36, 36, 219, 0.795);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+#myBar6 {
+  width: 65%;
+  height: 30px;
+  background-color: rgba(74, 204, 74, 0.795);
+  text-align: center;
+  line-height: 30px;
+  color: black;
+}
+footer{
+  margin-top: 0;
+  padding: 10px 20px;
+  background: #666;
+  color: white;
+  width: 100%;
+  text-align: center;
+  }
+.jumbotron {
+  margin-bottom: 0;    
+ }
